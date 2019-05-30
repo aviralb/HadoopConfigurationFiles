@@ -1,8 +1,11 @@
 # HadoopConfigurationFiles
 
 These are the port number of hadoop
+
 http://localhost:8088/cluster
+
 http://localhost:50070/
+
 http://localhost:19888/jobhistory
 
 First I downloaded Java JDK and Hadopp 2.7.7 Version By Using Below Command 
@@ -75,7 +78,9 @@ jps
 ****************Url For Hadoop Cluster************************
 
 http://localhost:8088/cluster
+
 http://localhost:50070/
+
 http://localhost:19888/jobhistory
 
 **************then bingo*****************
